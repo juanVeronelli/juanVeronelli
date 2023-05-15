@@ -81,12 +81,7 @@
 </div>
 <div>
   <h3>👨‍🏫 Learning skills</h3>
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
-    alt="aws"
-    width="40"
-    height="40"
-  />
+  <p> Aws </p>
   <p>BlockChain</p>
   <p>SQL</p>
 </div>
