@@ -22,6 +22,8 @@
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"
         alt="js icon"
+           width="200"
+        
       />
     </li>
     <li>
@@ -29,6 +31,7 @@
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"
         alt="nodeJS icon"
+           width="200"
       />
     </li>
     <li>
@@ -36,6 +39,7 @@
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"
         alt="Mongodb icon"
+           width="200"
       />
     </li>
     <li>
@@ -43,6 +47,7 @@
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
         alt="React icon"
+           width="200"
       />
     </li>
     <li>
@@ -50,6 +55,7 @@
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
         alt="sass"
+           width="200"
       />
     </li>
     <li>
@@ -57,6 +63,7 @@
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"
         alt="html5"
+           width="200"
       />
     </li>
     <li>
@@ -64,6 +71,7 @@
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"
         alt="css3"
+           width="200"
       />
     </li>
     <li>
@@ -71,6 +79,7 @@
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"
         alt="bootstrap"
+           width="200"
       />
     </li>
     <li>BEM</li>
@@ -79,6 +88,7 @@
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"
         alt="git icon"
+           width="200"
       />
     </li>
     <li>
@@ -86,6 +96,7 @@
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg"
         alt="Linux"
+           width="200"
       />
     </li>
   </ul>
@@ -97,6 +108,7 @@
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
         alt="aws"
+           width="200"
       />
     </li>
   </ul>
